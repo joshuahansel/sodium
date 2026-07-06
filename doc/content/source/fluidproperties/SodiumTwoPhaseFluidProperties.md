@@ -1,9 +1,9 @@
 # SodiumTwoPhaseFluidProperties
 
-!syntax description /Modules/FluidProperties/SodiumTwoPhaseFluidProperties
+!syntax description /FluidProperties/SodiumTwoPhaseFluidProperties
 
-!syntax parameters /Modules/FluidProperties/SodiumTwoPhaseFluidProperties
+!syntax parameters /FluidProperties/SodiumTwoPhaseFluidProperties
 
-!syntax inputs /Modules/FluidProperties/SodiumTwoPhaseFluidProperties
+!syntax inputs /FluidProperties/SodiumTwoPhaseFluidProperties
 
-!syntax children /Modules/FluidProperties/SodiumTwoPhaseFluidProperties
+!syntax children /FluidProperties/SodiumTwoPhaseFluidProperties

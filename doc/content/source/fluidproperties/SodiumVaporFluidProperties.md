@@ -1,9 +1,9 @@
 # SodiumVaporFluidProperties
 
-!syntax description /Modules/FluidProperties/SodiumVaporFluidProperties
+!syntax description /FluidProperties/SodiumVaporFluidProperties
 
-!syntax parameters /Modules/FluidProperties/SodiumVaporFluidProperties
+!syntax parameters /FluidProperties/SodiumVaporFluidProperties
 
-!syntax inputs /Modules/FluidProperties/SodiumVaporFluidProperties
+!syntax inputs /FluidProperties/SodiumVaporFluidProperties
 
-!syntax children /Modules/FluidProperties/SodiumVaporFluidProperties
+!syntax children /FluidProperties/SodiumVaporFluidProperties
